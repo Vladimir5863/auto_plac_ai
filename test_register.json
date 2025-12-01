@@ -1,0 +1,7 @@
+{
+  "korisnickoIme": "testuser",
+  "email": "test@example.com",
+  "brojTelefona": "+381601234567",
+  "lozinka": "testpass123",
+  "tipKorisnika": "Kupac"
+}
